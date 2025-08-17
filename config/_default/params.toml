@@ -1,7 +1,2 @@
 logo = "logos/rsblogo.png"
 footerLogo = "logos/rsblogo.png"
-
-iconsDir = "icons/"
-
-twitter = "@roboticseabass"
-largeTwitterCard = false
