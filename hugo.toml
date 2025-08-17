@@ -5,3 +5,6 @@ title = 'Robotic Sea Bass'
 theme = 'clarity'
 introDescription = "Learn about Robotics, Software, and AI."
 copyright = "Sebastian Castro"
+
+[params.meta]
+favicon = true
