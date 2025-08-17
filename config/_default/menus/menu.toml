@@ -1,0 +1,25 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/sea-bass"
+[[social]]
+  name = "Twitter"
+  weight = 2
+  url = "https://twitter.com/roboticseabass"
+[[social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/in/sebastian-a-castro"
